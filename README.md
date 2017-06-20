@@ -1,6 +1,9 @@
-# COBOL Learning  ¯\_(ツ)_/¯
+# COBOL Learning  
 
 Here I will put my `COBOL` stuff while learning. Yes, you read it right, I said `COBOL`.
+
+You say why and I say why not ¯\_(ツ)_/¯.
+
 Sometimes I like to code/learn/do weird stuff.
 
 I have done a little bit of `COBOL` in the past but I remember almost nothing, so here I am remembering it just for fun.
