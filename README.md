@@ -2,7 +2,7 @@
 
 Here I will put my `COBOL` stuff while learning. Yes, you read it right, I said `COBOL`.
 
-You say why and I say why not ¯\_(ツ)_/¯.
+You say why and I say why not `¯\_(ツ)_/¯`.
 
 Sometimes I like to code/learn/do weird stuff.
 
