@@ -1,4 +1,4 @@
-# COBOL Learning
+# COBOL Learning  ¯\_(ツ)_/¯
 
 Here I will put my `COBOL` stuff while learning. Yes, you read it right, I said `COBOL`.
 Sometimes I like to code/learn/do weird stuff.
